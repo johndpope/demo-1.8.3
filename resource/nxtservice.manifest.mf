@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Class-Path: lib/javax.servlet-api-3.1.0.jar lib/jetty-servlets-9.3.9.v
+ 20160517.jar lib/weupnp-0.1.4.jar lib/lucene-queries-5.3.2.jar lib/je
+ tty-http-9.3.9.v20160517.jar lib/core-3.2.1.jar lib/jetty-io-9.3.9.v2
+ 0160517.jar lib/lucene-analyzers-common-5.3.2.jar lib/json-simple-1.1
+ .1.jar lib/h2-1.4.191.jar lib/websocket-api-9.3.9.v20160517.jar lib/j
+ etty-continuation-9.3.9.v20160517.jar lib/javase-3.2.1.jar lib/slf4j-
+ api-1.7.18.jar lib/websocket-client-9.3.9.v20160517.jar lib/jetty-sec
+ urity-9.3.9.v20160517.jar lib/tika-parsers-1.12.jar lib/lucene-core-5
+ .3.2.jar lib/lucene-queryparser-5.3.2.jar lib/websocket-server-9.3.9.
+ v20160517.jar lib/bcprov-jdk15on-154.jar lib/jetty-server-9.3.9.v2016
+ 0517.jar lib/jetty-servlet-9.3.9.v20160517.jar lib/websocket-servlet-
+ 9.3.9.v20160517.jar lib/jetty-util-9.3.9.v20160517.jar lib/websocket-
+ common-9.3.9.v20160517.jar lib/tika-core-1.12.jar lib/slf4j-jdk14-1.7
+ .18.jar conf/
+Main-Class: nxt.env.service.NxtService
+

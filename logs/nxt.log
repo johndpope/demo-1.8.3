@@ -1,0 +1,162 @@
+2016-06-22 22:32:04 INFO: nxt.enableStackTraces = "true"
+2016-06-22 22:32:04 INFO: nxt.enableLogTraceback = "false"
+2016-06-22 22:32:04 INFO: logging enabled
+2016-06-22 22:32:04 INFO: socksProxyHost not defined
+2016-06-22 22:32:04 INFO: socksProxyPort not defined
+2016-06-22 22:32:04 FINE: java.version = 1.8.0_77
+2016-06-22 22:32:04 FINE: java.vm.version = 25.77-b03
+2016-06-22 22:32:04 FINE: java.vm.name = OpenJDK 64-Bit Server VM
+2016-06-22 22:32:04 FINE: java.vendor = Oracle Corporation
+2016-06-22 22:32:04 FINE: java.vm.vendor = Oracle Corporation
+2016-06-22 22:32:04 FINE: java.home = /usr/lib/jvm/java-8-openjdk/jre
+2016-06-22 22:32:04 FINE: java.library.path = /home/alex/torch/install/lib:/home/alex/torch/install/lib::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2016-06-22 22:32:04 FINE: java.class.path = classes:lib/h2-1.4.191.jar:lib/core-3.2.1.jar:lib/lucene-queries-5.3.2.jar:lib/slf4j-api-1.7.18.jar:lib/lucene-analyzers-common-5.3.2.jar:lib/tika-core-1.12.jar:lib/lucene-core-5.3.2.jar:lib/jetty-security-9.3.9.v20160517.jar:lib/jetty-continuation-9.3.9.v20160517.jar:lib/javase-3.2.1.jar:lib/websocket-server-9.3.9.v20160517.jar:lib/jetty-util-9.3.9.v20160517.jar:lib/tika-parsers-1.12.jar:lib/websocket-client-9.3.9.v20160517.jar:lib/lucene-queryparser-5.3.2.jar:lib/websocket-common-9.3.9.v20160517.jar:lib/jetty-io-9.3.9.v20160517.jar:lib/websocket-api-9.3.9.v20160517.jar:lib/bcprov-jdk15on-154.jar:lib/javax.servlet-api-3.1.0.jar:lib/jetty-servlet-9.3.9.v20160517.jar:lib/jetty-servlets-9.3.9.v20160517.jar:lib/json-simple-1.1.1.jar:lib/slf4j-jdk14-1.7.18.jar:lib/jetty-server-9.3.9.v20160517.jar:lib/websocket-servlet-9.3.9.v20160517.jar:lib/jetty-http-9.3.9.v20160517.jar:lib/weupnp-0.1.4.jar:conf:addons/classes
+2016-06-22 22:32:04 FINE: os.arch = amd64
+2016-06-22 22:32:04 FINE: sun.arch.data.model = 64
+2016-06-22 22:32:04 FINE: os.name = Linux
+2016-06-22 22:32:04 FINE: file.encoding = ANSI_X3.4-1968
+2016-06-22 22:32:04 FINE: java.security.policy = null
+2016-06-22 22:32:04 FINE: java.security.manager = null
+2016-06-22 22:32:04 FINE: nxt.runtime.mode = null
+2016-06-22 22:32:04 FINE: nxt.runtime.dirProvider = null
+2016-06-22 22:32:04 FINE: availableProcessors = 4
+2016-06-22 22:32:04 FINE: maxMemory = 1741160448
+2016-06-22 22:32:04 FINE: processId = 12818
+2016-06-22 22:32:04 INFO: nxt.isTestnet = "false"
+2016-06-22 22:32:04 INFO: nxt.isOffline = "true"
+2016-06-22 22:32:04 INFO: nxt.maxRollback = "800"
+2016-06-22 22:32:04 INFO: nxt.forgingDelay = "20"
+2016-06-22 22:32:04 INFO: nxt.forgingSpeedup = "3"
+2016-06-22 22:32:04 INFO: nxt.maxPrunableLifetime = "7776000"
+2016-06-22 22:32:04 INFO: nxt.includeExpiredPrunable = "true"
+2016-06-22 22:32:04 INFO: nxt.correctInvalidFees = "false"
+2016-06-22 22:32:04 INFO: nxt.statementLogThreshold = "10000"
+2016-06-22 22:32:04 INFO: nxt.transactionLogThreshold = "15000"
+2016-06-22 22:32:04 INFO: nxt.transactionLogInterval = "15"
+2016-06-22 22:32:04 INFO: nxt.dbCacheKB = "0"
+2016-06-22 22:32:04 INFO: nxt.dbUrl not defined
+2016-06-22 22:32:04 INFO: nxt.dbType = "h2"
+2016-06-22 22:32:04 INFO: nxt.dbDir = "./nxt_db/nxt"
+2016-06-22 22:32:04 INFO: nxt.dbParams = "DB_CLOSE_ON_EXIT=FALSE;MVCC=TRUE;MV_STORE=FALSE"
+2016-06-22 22:32:04 INFO: nxt.dbUsername = "sa"
+2016-06-22 22:32:04 INFO: nxt.dbPassword = "{not logged}"
+2016-06-22 22:32:04 INFO: nxt.maxDbConnections = "30"
+2016-06-22 22:32:04 INFO: nxt.dbLoginTimeout = "70"
+2016-06-22 22:32:04 INFO: nxt.dbDefaultLockTimeout = "60"
+2016-06-22 22:32:04 FINE: Database jdbc url set to jdbc:h2:./nxt_db/nxt;DB_CLOSE_ON_EXIT=FALSE;MVCC=TRUE;MV_STORE=FALSE;CACHE_SIZE=262144 username sa
+2016-06-22 22:32:05 INFO: nxt.useStrongSecureRandom = "false"
+2016-06-22 22:32:06 FINE: Database connection pool current size: 1
+2016-06-22 22:32:06 INFO: Database update may take a while if needed, current db version 481...
+2016-06-22 22:32:06 INFO: nxt.enableTransactionRebroadcasting = "true"
+2016-06-22 22:32:06 INFO: nxt.testUnconfirmedTransactions not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.maxUnconfirmedTransactions = "2000"
+2016-06-22 22:32:06 INFO: nxt.trimDerivedTables = "true"
+2016-06-22 22:32:06 INFO: nxt.numberOfForkConfirmations = "2"
+2016-06-22 22:32:06 INFO: nxt.trimFrequency = "1000"
+2016-06-22 22:32:06 INFO: nxt.disableGetMoreBlocksThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.disableProcessTransactionsThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.disableRemoveUnconfirmedTransactionsThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.disableProcessWaitingTransactionsThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.disableRebroadcastTransactionsThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.enablePublicKeyCache = "true"
+2016-06-22 22:32:06 INFO: nxt.ledgerTrimKeep = "30000"
+2016-06-22 22:32:06 INFO: nxt.ledgerAccounts = "*"
+2016-06-22 22:32:06 INFO: Account ledger is tracking all accounts
+2016-06-22 22:32:06 INFO: nxt.ledgerLogUnconfirmed = "2"
+2016-06-22 22:32:06 INFO: nxt.processPolls = "true"
+2016-06-22 22:32:06 INFO: nxt.deleteFinishedShufflings = "false"
+2016-06-22 22:32:06 INFO: nxt.hideErrorDetails = "false"
+2016-06-22 22:32:06 INFO: nxt.myPlatform not defined
+2016-06-22 22:32:06 INFO: nxt.myAddress not defined
+2016-06-22 22:32:06 INFO: nxt.peerServerPort = "7874"
+2016-06-22 22:32:06 INFO: nxt.shareMyAddress = "true"
+2016-06-22 22:32:06 INFO: nxt.enablePeerUPnP = "true"
+2016-06-22 22:32:06 INFO: nxt.myHallmark not defined
+2016-06-22 22:32:06 INFO: nxt.adminPassword not defined
+2016-06-22 22:32:06 INFO: nxt.maxAPIRecords = "100"
+2016-06-22 22:32:06 INFO: nxt.enableAPIUPnP = "false"
+2016-06-22 22:32:06 INFO: nxt.disabledAPIs not defined
+2016-06-22 22:32:06 INFO: nxt.disabledAPITags not defined
+2016-06-22 22:32:06 INFO: nxt.allowedBotHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1];"
+2016-06-22 22:32:06 INFO: nxt.enableAPIServer = "true"
+2016-06-22 22:32:06 INFO: nxt.apiServerPort = "7876"
+2016-06-22 22:32:06 INFO: nxt.apiServerSSLPort = "7876"
+2016-06-22 22:32:06 INFO: nxt.apiServerHost = "127.0.0.1"
+2016-06-22 22:32:06 INFO: nxt.disableAdminPassword = "false"
+2016-06-22 22:32:06 INFO: nxt.apiSSL = "false"
+2016-06-22 22:32:06 INFO: nxt.apiServerIdleTimeout = "30000"
+2016-06-22 22:32:06 INFO: API server using HTTP port 7876
+2016-06-22 22:32:06 INFO: nxt.apiResourceBase = "./html/ui"
+2016-06-22 22:32:06 INFO: nxt.apiWelcomeFile = "index.html"
+2016-06-22 22:32:06 INFO: nxt.javadocResourceBase = "./html/doc"
+2016-06-22 22:32:06 INFO: nxt.maxUploadFileSize not defined or not numeric, using default value 0
+2016-06-22 22:32:06 INFO: nxt.enableAPIServerGZIPFilter = "false"
+2016-06-22 22:32:06 INFO: nxt.apiServerCORS = "false"
+2016-06-22 22:32:06 INFO: nxt.apiFrameOptionsSameOrigin = "true"
+2016-06-22 22:32:06 FINE: My peer info:
+{"application":"NRS","services":"0","version":"1.8.3","platform":"Linux amd64","shareAddress":false}
+2016-06-22 22:32:06 INFO: nxt.defaultPeers = "nxt6.y.cz; 72.224.5.160; 104.193.41.253; 105.184.205.141; 68.168.161.160; 78.46.233.109; nxt.cryonet.de; 120.25.65.184; nxt3.testdruif.be; 88.166.170.251; 85.10.201.15; nxtsrv.ddns.net; 80.150.243.88; 78.61.48.176; 78.47.58.62; 96.3.30.62; nxt1.scriba.io; 202.96.138.226; 50.101.215.36; 108.32.156.160; 188.226.179.119; nxtx.ru; nxt4.y.cz; nxt01.now.im; nrs.scripterron.org; 73.40.166.72; 73.40.166.127; 174.140.167.239; 162.243.242.8; gunka.szn.dk; 36.2.119.80; 69.163.40.132; 192.0.226.19; 82.165.145.37; 83.83.161.46; strat.hd.free.fr; 85.159.46.2; 84.246.228.249; 78.47.115.250; 202.96.138.245; nxt.sx; 144.76.94.38; 80.150.243.95; 80.150.243.96; 50.137.3.98; 80.150.243.97; 80.150.243.98; enricoip.no-ip.biz; 50.27.137.177; 211.149.213.86; 80.150.243.99; 80.150.243.12; 176.128.198.189; f376.ddns.net; 80.150.243.13; 78.46.109.176; 2.27.250.149; 162.243.194.123; 69.158.20.19; gtwins.f3322.net; 136.243.249.132; nxt1.testdruif.be; 27.121.134.84; home.kaerner.net; 178.15.99.67; 162.243.122.251; 104.238.188.179; 62.194.6.113; nxt.arguseyes.net; 78.63.207.76; 87.138.143.21; 87.139.122.48; nxtpi2node.ddns.net; 73.79.66.116; nxt1.y.cz; 87.139.122.157; 104.168.174.36; brangdon.duckdns.org; 94.102.50.75; 212.232.49.28; 176.94.115.161; 128.8.128.117; 61.131.37.210; 91.239.69.78; 46.4.74.71; 162.243.145.83; 192.3.196.10; 5.19.241.146; 23.94.134.161; 96.236.141.73; nxt.notbot.me; 142.4.218.174; 72.182.27.227; 178.33.203.157; nxt.noip.me; 50.190.201.52; sluni.szn.dk; 90.154.170.235; 136.243.5.70; megaman.thican.net; 109.192.12.87; 54.213.222.141; humanoide.thican.net; 96.236.143.175; 52.0.72.67; 71.60.209.122; bug.airdns.org;"
+2016-06-22 22:32:06 INFO: nxt.wellKnownPeers not defined
+2016-06-22 22:32:06 INFO: nxt.knownBlacklistedPeers not defined
+2016-06-22 22:32:06 INFO: nxt.maxNumberOfInboundConnections = "250"
+2016-06-22 22:32:06 INFO: nxt.maxNumberOfOutboundConnections = "50"
+2016-06-22 22:32:06 INFO: nxt.maxNumberOfConnectedPublicPeers = "20"
+2016-06-22 22:32:06 INFO: nxt.maxNumberOfKnownPeers = "2000"
+2016-06-22 22:32:06 INFO: nxt.minNumberOfKnownPeers = "1000"
+2016-06-22 22:32:06 INFO: nxt.connectTimeout = "10000"
+2016-06-22 22:32:06 INFO: nxt.readTimeout = "20000"
+2016-06-22 22:32:06 INFO: nxt.enableHallmarkProtection = "true"
+2016-06-22 22:32:06 INFO: nxt.pushThreshold = "0"
+2016-06-22 22:32:06 INFO: nxt.pullThreshold = "0"
+2016-06-22 22:32:06 INFO: nxt.useWebSockets = "true"
+2016-06-22 22:32:06 INFO: nxt.webSocketIdleTimeout = "900000"
+2016-06-22 22:32:06 INFO: nxt.enablePeerServerGZIPFilter = "true"
+2016-06-22 22:32:06 INFO: nxt.blacklistingPeriod = "600000"
+2016-06-22 22:32:06 INFO: nxt.communicationLoggingMask = "0"
+2016-06-22 22:32:06 INFO: nxt.sendToPeersLimit = "10"
+2016-06-22 22:32:06 INFO: nxt.usePeersDb = "true"
+2016-06-22 22:32:06 INFO: nxt.getMorePeers = "true"
+2016-06-22 22:32:06 INFO: nxt.cjdnsOnly = "false"
+2016-06-22 22:32:06 INFO: nxt.ignorePeerAnnouncedAddress = "false"
+2016-06-22 22:32:06 INFO: shareMyAddress is disabled, will not start peer networking server
+2016-06-22 22:32:06 INFO: nxt.maxNumberOfForgers = "100"
+2016-06-22 22:32:06 INFO: nxt.enableFakeForging not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.disableGenerateBlocksThread not defined, assuming false
+2016-06-22 22:32:06 INFO: nxt.addOns not defined
+2016-06-22 22:32:06 INFO: nxt.allowedUserHosts = "127.0.0.1; localhost; [0:0:0:0:0:0:0:1];"
+2016-06-22 22:32:06 INFO: nxt.enableUIServer = "false"
+2016-06-22 22:32:06 INFO: User interface server not enabled
+2016-06-22 22:32:06 INFO: nxt.debugTraceQuote = """
+2016-06-22 22:32:06 INFO: nxt.debugTraceSeparator = "	"
+2016-06-22 22:32:06 INFO: nxt.debugLogUnconfirmed = "false"
+2016-06-22 22:32:06 INFO: nxt.debugTraceAccounts not defined
+2016-06-22 22:32:06 INFO: nxt.debugTraceLog = "nxt-trace.csv"
+2016-06-22 22:32:06 FINE: Running 1 tasks...
+2016-06-22 22:32:06 INFO: Genesis block already in database
+2016-06-22 22:32:06 FINE: Rollback from block 1911638433070766742 at height 6 to 1911638433070766742 at 6
+2016-06-22 22:32:06 FINE: Average database transaction time is 0.042 seconds
+2016-06-22 22:32:06 INFO: Last block height: 6
+2016-06-22 22:32:06 INFO: nxt.forceScan = "false"
+2016-06-22 22:32:06 FINE: Running 1 final tasks...
+2016-06-22 22:32:06 INFO: nxt.apiServerEnforcePOST = "true"
+2016-06-22 22:32:06 INFO: Started API server at 127.0.0.1:7876
+2016-06-22 22:32:06 FINE: Starting 6 background jobs
+2016-06-22 22:32:06 FINE: Starting 2 delayed tasks
+2016-06-22 22:32:06 FINE: Known peers: 0
+2016-06-22 22:32:07 INFO: Initialization took 2 seconds
+2016-06-22 22:32:07 INFO: Nxt server 1.8.3 started successfully.
+2016-06-22 22:32:07 INFO: Copyright ? 2013-2016 The Nxt Core Developers.
+2016-06-22 22:32:07 INFO: Distributed under GPLv2, with ABSOLUTELY NO WARRANTY.
+2016-06-22 22:32:07 INFO: Client UI is at http://localhost:7876/index.html
+2016-06-22 22:32:07 INFO: ---------------------
+2016-06-22 22:32:07 INFO: JONES Edition - Access 1B NXT with passphrase 'source'
+2016-06-22 22:32:07 INFO: To Create blocks, run (in linux): 'curl --data "requestType=startForging&secretPhrase=source" http://127.0.0.1:7876/nxt'
+2016-06-22 22:32:17 INFO: Shutting down...
+2016-06-22 22:32:17 INFO: nxt.maxNumberOfMonitors = "100"
+2016-06-22 22:32:17 INFO: Stopping background jobs...
+2016-06-22 22:32:17 INFO: shutting down scheduledThreadPool
+2016-06-22 22:32:17 INFO: ...Done
+2016-06-22 22:32:17 INFO: shutting down sendingService
+2016-06-22 22:32:17 INFO: shutting down peersService
+2016-06-22 22:32:17 INFO: Database shutdown completed
+2016-06-22 22:32:17 INFO: Nxt server 1.8.3 stopped.
